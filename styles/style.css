@@ -45,8 +45,10 @@ li {
     display: block;
     padding: 8px;
     background-color:#FFFFFF;
-    text-decoration:none;
-    text-align: inline;
+    border-right: 1px solid #000000;
+}
+li last-child {
+    border-right:none;
 }
 .material-icons.md-36 { font-size: 36px; }
 p {
