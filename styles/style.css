@@ -46,6 +46,7 @@ li {
     padding: 8px;
     background-color:#FFFFFF;
     text-decoration:none;
+    text-align: inline;
 }
 .material-icons.md-36 { font-size: 36px; }
 p {
