@@ -17,12 +17,7 @@ h1 {
     text-align: center;
 }
 p {
-    font-size: 3rem;
-    letter-spacing: 1rem;
-}
-li { 
-    font-size: 2rem;
-    list-style-type: none;
+    font-size: 1rem;
 }
 a:link {
     color:#FFFFFF
