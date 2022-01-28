@@ -1,4 +1,12 @@
-html {
-    font-size: 2rem; 
+html { 
     font-family: "Open Sans", sans-serif; 
+}
+h1 {
+    font-size: 4rem;
+}
+p {
+    font-size: 3rem;
+}
+li { 
+    font-size: 2rem;
 }
