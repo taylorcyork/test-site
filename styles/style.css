@@ -21,4 +21,5 @@ p {
 }
 li { 
     font-size: 2rem;
+    list-style-type: none;
 }
