@@ -1,3 +1,18 @@
+a:link {
+    color:#FFFFFF
+}
+a:hover {
+    color: #D9D9D9
+}
+body {
+    width: 80rem;
+    margin: auto;
+    background-color: #000000;
+}
+h1 {
+    font-size: 4rem;
+    text-align: center;
+}
 html { 
     font-family: 'Roboto', sans-serif; 
     color: #FFFFFF;
@@ -7,22 +22,7 @@ html {
     padding-bottom: 1rem;
     background-color: #000000;
 }
-body {
-    width: 80rem;
-    margin: auto;
-    background-color: #000000;
-}
 .material-icons.md-36 { font-size: 36px; }
-h1 {
-    font-size: 4rem;
-    text-align: center;
-}
 p {
     font-size: 1rem;
-}
-a:link {
-    color:#FFFFFF
-}
-a:hover {
-    color: #D9D9D9
 }
