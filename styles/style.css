@@ -15,11 +15,13 @@ body{
 }
 .box-img{
     border-radius: 50%;
-    width: 3000px;
-    height: 4000px;
+    width: 200px;
+    height: 200px;
 }
-
-.email{
-    text-align: center; 
-    padding: 100px;
+.box h1{
+    font-size: 40px;
+    font-weight: 100;
+}
+.box p{
+    text-align: center;
 }
