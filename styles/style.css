@@ -39,4 +39,5 @@ a:link, a:visited{
 }
 a:hover{
     color:#D3D3D3;
+    transition: color 250ms;
 }
