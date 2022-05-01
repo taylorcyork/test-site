@@ -1,4 +1,25 @@
-body {
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.box{
+    width: 450px;
+    background: rgba(0, 0, 0, 0.8);
+    padding: 40px;
+    text-align: center;
+    margin: auto; 
+    margin-top: 5%;
+    color: white; 
     font-family: 'Open Sans', sans-serif;
 }
+.box-img{
+    border-radius: 50%;
+    width: 3000px;
+    height: 4000px;
+}
 
+.email{
+    text-align: center; 
+    padding: 100px;
+}
