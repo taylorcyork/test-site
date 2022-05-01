@@ -41,3 +41,14 @@ a:hover{
     color:#D3D3D3;
     transition: color 250ms;
 }
+@media (max-width:1000px){
+    .about{
+    border-radius: 2%;
+    width: 450px;
+    background: #354F52;
+    padding: 40px;
+    text-align: center;
+    margin: auto; 
+    margin-top: 10%;
+}
+}
