@@ -33,6 +33,7 @@ body{
 }
 .material-icons{
     color: #354F52;
+    font-size: 40px !important;
 }
 a:link, a:visited{
     text-decoration:none;
@@ -43,13 +44,13 @@ a:hover{
 }
 @media (max-width:1000px){
     .about{
-    border-radius: 2%;
-    width: 80%;
-    height: 80%;
-    background: #354F52;
-    padding: 40px;
-    text-align: center;
-    margin: auto; 
-    margin-top: 50%;
-}
+        border-radius: 2%;
+        width: 80%;
+        height: 80%;
+        background: #354F52;
+        padding: 40px;
+        text-align: center;
+        margin: auto; 
+        margin-top: 50%;
+    }
 }
