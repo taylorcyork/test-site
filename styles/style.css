@@ -49,6 +49,39 @@ body{
     color: rgb(0, 0, 0); 
     font-family: 'Open Sans', sans-serif;
 }
+.teaching{
+    border-radius: 2%;
+    width: 600px;
+    background: #d8d8d8;
+    padding: 40px;
+    text-align: center;
+    margin: auto; 
+    margin-top: 5%;
+    color: rgb(0, 0, 0); 
+    font-family: 'Open Sans', sans-serif;
+}
+.research{
+    border-radius: 2%;
+    width: 600px;
+    background: #d8d8d8;
+    padding: 40px;
+    text-align: center;
+    margin: auto; 
+    margin-top: 5%;
+    color: rgb(0, 0, 0); 
+    font-family: 'Open Sans', sans-serif;
+}
+.publications{
+    border-radius: 2%;
+    width: 600px;
+    background: #d8d8d8;
+    padding: 40px;
+    text-align: center;
+    margin: auto; 
+    margin-top: 5%;
+    color: rgb(0, 0, 0); 
+    font-family: 'Open Sans', sans-serif;
+}
 .contact{
     text-align:center;
     padding-top: 40px;
