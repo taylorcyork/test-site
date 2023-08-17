@@ -2,12 +2,12 @@ body{
     font-family: 'Open Sans', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #A3B18A;
+    background-color: #ffffff;
 }
 .about{
     border-radius: 2%;
     width: 450px;
-    background: #354F52;
+    background: #727272;
     padding: 40px;
     text-align: center;
     margin: auto; 
@@ -32,7 +32,7 @@ body{
     padding-top: 40px;
 }
 .material-icons{
-    color: #354F52;
+    color: #727272;
     font-size: 40px !important;
 }
 a:link, a:visited{
