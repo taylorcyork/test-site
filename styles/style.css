@@ -82,6 +82,28 @@ body{
     color: rgb(0, 0, 0); 
     font-family: 'Open Sans', sans-serif;
 }
+.abstracts{
+    border-radius: 2%;
+    width: 600px;
+    background: #d8d8d8;
+    padding: 10px;
+    text-align: center;
+    margin: auto; 
+    margin-top: 1%;
+    color: rgb(0, 0, 0); 
+    font-family: 'Open Sans', sans-serif;
+}
+.posters{
+    border-radius: 2%;
+    width: 600px;
+    background: #d8d8d8;
+    padding: 10px;
+    text-align: center;
+    margin: auto; 
+    margin-top: 1%;
+    color: rgb(0, 0, 0); 
+    font-family: 'Open Sans', sans-serif;
+}
 .contact{
     text-align:center;
     padding-top: 40px;
