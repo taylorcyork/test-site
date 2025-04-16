@@ -119,14 +119,3 @@ a:hover{
     color:#8b8b8b;
     transition: color 250ms;
 }
-@media (max-width:1000px){
-    .about{
-        border-radius: 2%;
-        width: 80%;
-        height: 80%;
-        padding: 40px;
-        text-align: center;
-        margin: auto; 
-        margin-top: 50%;
-    }
-}
